@@ -6,6 +6,7 @@ I'm Derek, a Software Engineer with 3.5 years of experience building full-stack 
 - Full-stack development with **JavaScript/Node.js**, **React**, **Python**, and **C++**
 - Building scalable systems (web filtering platform handling 35,000+ URLs)
 - Performance optimization (40% database query improvements, 75% QA time reduction through automation)
+- DevOps
 
 ### 🎓 Background
 - M.S. in Computer Science (Machine Learning specialization) — USC
