@@ -17,11 +17,5 @@ I'm Derek, a Software Engineer with 3.5 years of experience building full-stack 
 - Cloud architecture patterns
 - C++ Development
 
-### 💬 Ask Me About
-- Full-stack development
-- Performance tuning and optimization
-- Building automated testing frameworks
-- Data Collection, Pre-processing, and Annotation
-
 ### 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/derekhuynguyen/)
