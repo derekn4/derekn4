@@ -1,6 +1,7 @@
-## Derek Nguyen
+## Hi! I'm Derek Nguyen!
 
-Hey! I'm a Software Engineer with 3.5 years of experience building full-stack systems and diving deep into performance optimization.
+I'm a Software Engineer with 3.5 years of experience building full-stack systems and diving deep into performance optimization. 
+In my personal time, I enjoy gaming, traveling, and videography!
 
 ### 🔭 What I Do
 - Full-stack development with **JavaScript/Node.js**, **React**, **Python**, and **C++**
@@ -20,3 +21,4 @@ Hey! I'm a Software Engineer with 3.5 years of experience building full-stack sy
 
 ### 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/derekhuynguyen/)
+- [Youtube](https://www.youtube.com/@dereknguyen410)
