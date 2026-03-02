@@ -1,4 +1,4 @@
-## Hi! I'm Derek Nguyen!
+## Hi, I'm Derek Nguyen!
 
 I'm a Software Engineer with 3.5 years of experience building full-stack systems and diving deep into performance optimization. 
 In my personal time, I enjoy gaming, traveling, and videography!
