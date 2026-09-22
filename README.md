@@ -16,14 +16,13 @@ In my personal time, I enjoy gaming, traveling, and videography!
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🔭 What I Do
 - Native iOS development (Swift) at ScreenBeam
 - Full-stack web apps with React + TypeScript / Node.js
 - Distributed backend services in C# / .NET on Azure (Cosmos DB, Service Bus)
-- Cloud-native deployment with Docker + Kubernetes
+- Cloud-native deployment with Docker
 - Event-driven / async messaging architectures (Service Bus, Kafka)
 - API design (REST, WebSocket) with OpenAPI documentation
 - Performance optimization (40% DB query improvement, 75% QA time reduction)
